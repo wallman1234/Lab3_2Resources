@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lab3_2Resources</string>
+    <string name="show">ショー</string>
+    <string name="message">あなたはどうですか、Alfred Yapp。最悪だな</string>
+    <string name="hello">" こんにちは世界"</string>
+</resources>
